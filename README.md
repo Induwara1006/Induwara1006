@@ -1,7 +1,8 @@
 # Hi, I'm Induwara Abhisheka
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?size=22&duration=3500&color=000000&center=true&vCenter=true&lines=Computer+Engineering+Undergraduate;AI+%26+Machine+Learning;Embedded+Systems+%26+IoT" />
+  <img src="https://readme-typing-svg.vercel.app?size=20&duration=4000&color=1F6FEB&center=true&vCenter=true&lines=Computer+Engineering+Undergraduate;Artificial+Intelligence+%26+Machine+Learning;Embedded+Systems+%26+IoT" />
 </p>
+
 Computer Engineering Undergraduate with a focus on **Artificial Intelligence & Machine Learning** and **embedded systems for IoT applications**.  
 Interested in designing **intelligent, reliable, and system-level solutions** that integrate data-driven models with hardware and real-world environments.
 
