@@ -5,8 +5,7 @@
     alt="Typing SVG"
   />
 </p>
-
-Computer Engineering Undergraduate with a focus on **Artificial Intelligence & Machine Learning** and **embedded systems for IoT applications**.  
+  
 Interested in designing **intelligent, reliable, and system-level solutions** that integrate data-driven models with hardware and real-world environments.
 
 ---
