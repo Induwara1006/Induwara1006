@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Induwara Abhisheka
 
-<!--
-**Induwara1006/Induwara1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Undergraduate with interests in **AI & Machine Learning**, **full-stack application development**, and **embedded & IoT systems**.  
+Experienced in building **scalable web and mobile applications** using React and Flutter, and integrating intelligent systems into real-world solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+- Artificial Intelligence & Machine Learning
+- Full-Stack Development (React, Flutter)
+- Mobile Application Architecture
+- Embedded Systems & IoT
+- RESTful API Design
+
+---
+
+## Technical Skills
+**Languages:** C, C++, Java, Python, Dart, JavaScript  
+**Frameworks & Tools:** Flutter, React, Node.js, Firebase  
+**Databases:** MySQL, MongoDB, Firestore  
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook  
+
+---
+
+## Currently
+- Studying Computer Engineering (B.Sc. Hons.)
+- Expanding knowledge in Machine Learning and system design
+- Building production-quality full-stack applications
+
+---
+
+## Contact
+- LinkedIn: https://linkedin.com/in/induwara-abhisheka  
+- Email: induwaraabhisheka99@gmail.com
