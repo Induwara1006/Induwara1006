@@ -4,35 +4,35 @@
 
 # Hi, I'm Induwara Abhisheka
 
-Computer Engineering Undergraduate with interests in **AI & Machine Learning**, **full-stack application development**, and **embedded & IoT systems**.  
-Experienced in building **scalable web and mobile applications** using React and Flutter, and integrating intelligent systems into real-world solutions.
+Computer Engineering Undergraduate with a focus on **AI & Machine Learning** and **embedded systems for IoT applications**.  
+Interested in designing **intelligent, reliable, and system-level solutions** that integrate data-driven models with hardware and real-world environments.
 
 ---
 
 ## Focus Areas
 - Artificial Intelligence & Machine Learning
-- Full-Stack Development (React, Flutter)
-- Mobile Application Architecture
 - Embedded Systems & IoT
+- Sensor Data Processing
 - RESTful API Design
+- System Integration & Architecture
 
 ---
 
 ## Technical Skills
 **Languages:** C, C++, Java, Python, Dart, JavaScript  
-**Frameworks & Tools:** Flutter, React, Node.js, Firebase  
+**Frameworks & Tools:** TensorFlow, scikit-learn, Node.js, Firebase  
 **Databases:** MySQL, MongoDB, Firestore  
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook  
+**Development Tools:** Git, GitHub, VS Code, Jupyter Notebook  
 
 ---
 
 ## Currently
-- Studying Computer Engineering (B.Sc. Hons.)
-- Expanding knowledge in Machine Learning and system design
-- Building production-quality full-stack applications
+- Pursuing B.Sc. (Hons.) in Computer Engineering
+- Strengthening foundations in Machine Learning and system design
+- Working on embedded and AI-integrated software systems
 
 ---
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/induwara-abhisheka  
+- LinkedIn: https://www.linkedin.com/in/induwara-abhisheka  
 - Email: induwaraabhisheka99@gmail.com
